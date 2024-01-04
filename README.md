@@ -2,4 +2,5 @@
 python projects
 
 `calculations.py` <br>
-`password_generator.py`
+`password_generator.py` <br>
+`average.py` <br>
